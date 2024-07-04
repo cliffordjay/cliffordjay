@@ -18,9 +18,9 @@
         <div class="row">
             <!-- Product 1 -->
             <div class="col-4 text-center">
-                <label id="product1">YAMAHA NMAX</label>   
-                <img src="nmax.png" style="width:200px;height:250px;" class="img-thumbnail"/><br>
-                <label for="product1" id="price1">150000.00</label>
+                <label id="product1">ROLEX</label>   
+                <img src="pic1.jfif" style="width:200px;height:250px;" class="img-thumbnail"/><br>
+                <label for="product1" id="price1">30000.00</label>
                 <input type="number" class="form-control" id="qty1" placeholder="Enter quantity"/><br>
             </div>
             <!-- Product 2 -->
