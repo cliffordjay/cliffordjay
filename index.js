@@ -27,14 +27,14 @@
             <div class="col-4 text-center">
                 <label id="product2">G-SHOCK</label>   
                 <img src="pic2.jpg" style="width:200px;height:250px;" class="img-thumbnail"/><br>
-                <label for="product2" id="price2">70000.00</label>
+                <label for="product2" id="price2">4000.00</label>
                 <input type="number" class="form-control" id="qty2" placeholder="Enter quantity"/><br>
             </div>
             <!-- Product 3 -->
             <div class="col-4 text-center">
-                <label id="product3">YAMAHA AEROX </label>   
-                <img src="pic2.jpg" style="width:200px;height:250px;" class="img-thumbnail"/><br>
-                <label for="product3" id="price3">150000.00</label>
+                <label id="product3">CASIO </label>   
+                <img src="pic3.jpg" style="width:200px;height:250px;" class="img-thumbnail"/><br>
+                <label for="product3" id="price3">15000.00</label>
                 <input type="number" class="form-control" id="qty3" placeholder="Enter quantity"/><br>
             </div>
         </div>
@@ -42,14 +42,14 @@
             <!-- Product 4 -->
             <div class="col-4 text-center">
                 <label id="product4">YAMAHA MIO GEAR</label>   
-                <img src="pic2.jpg" style="width:200px;height:250px;" class="img-thumbnail"/><br>
+                <img src="" style="width:200px;height:250px;" class="img-thumbnail"/><br>
                 <label for="product4" id="price4">90000.00</label>
                 <input type="number" class="form-control" id="qty4" placeholder="Enter quantity"/><br>
             </div>
             <!-- Product 5 -->
             <div class="col-4 text-center">
                 <label id="product5">SUZUKI RAIDER150</label>   
-                <img src="raider.png" style="width:200px;height:250px;" class="img-thumbnail"/><br>
+                <img src="pic3.jpg" style="width:200px;height:250px;" class="img-thumbnail"/><br>
                 <label for="product5" id="price5">100000.00</label>
                 <input type="number" class="form-control" id="qty5" placeholder="Enter quantity"/><br>
             </div>
